@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="EncabezadoPJ">
-      <h2>&nbsp; Alta de Contrato Persona Fisica</h2>
+      <h2>&nbsp; Alta de Contrato Persona Fisica prueba al pull</h2>
       <hr />
     </div>
     <table>
