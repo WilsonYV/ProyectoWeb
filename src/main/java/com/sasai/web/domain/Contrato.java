@@ -2,7 +2,7 @@ package com.sasai.web.domain;
 
 public class Contrato {
 
-    private Long id;
+    private Long idContrato;
     private String descTipoCuest;
 
     private String idPerJuridica;
